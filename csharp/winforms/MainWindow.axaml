@@ -1,0 +1,8 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="winforms.MainWindow"
+        Title="winforms">
+    <StackPanel>
+        <Button Name="btnClickMe" Content="Click Me" Click="btnClickMe_Click"/>
+    </StackPanel>
+</Window>

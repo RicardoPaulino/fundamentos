@@ -1,0 +1,15 @@
+/home/ricardo/Workspace/fundamentos/csharp/generics/bin/Debug/net6.0/generics
+/home/ricardo/Workspace/fundamentos/csharp/generics/bin/Debug/net6.0/generics.deps.json
+/home/ricardo/Workspace/fundamentos/csharp/generics/bin/Debug/net6.0/generics.runtimeconfig.json
+/home/ricardo/Workspace/fundamentos/csharp/generics/bin/Debug/net6.0/generics.dll
+/home/ricardo/Workspace/fundamentos/csharp/generics/bin/Debug/net6.0/generics.pdb
+/home/ricardo/Workspace/fundamentos/csharp/generics/obj/Debug/net6.0/generics.csproj.AssemblyReference.cache
+/home/ricardo/Workspace/fundamentos/csharp/generics/obj/Debug/net6.0/generics.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/Workspace/fundamentos/csharp/generics/obj/Debug/net6.0/generics.AssemblyInfoInputs.cache
+/home/ricardo/Workspace/fundamentos/csharp/generics/obj/Debug/net6.0/generics.AssemblyInfo.cs
+/home/ricardo/Workspace/fundamentos/csharp/generics/obj/Debug/net6.0/generics.csproj.CoreCompileInputs.cache
+/home/ricardo/Workspace/fundamentos/csharp/generics/obj/Debug/net6.0/generics.dll
+/home/ricardo/Workspace/fundamentos/csharp/generics/obj/Debug/net6.0/refint/generics.dll
+/home/ricardo/Workspace/fundamentos/csharp/generics/obj/Debug/net6.0/generics.pdb
+/home/ricardo/Workspace/fundamentos/csharp/generics/obj/Debug/net6.0/generics.genruntimeconfig.cache
+/home/ricardo/Workspace/fundamentos/csharp/generics/obj/Debug/net6.0/ref/generics.dll
