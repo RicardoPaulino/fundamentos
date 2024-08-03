@@ -1,0 +1,15 @@
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/obj/Debug/net8.0/variaveis-indexadas.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/obj/Debug/net8.0/variaveis-indexadas.AssemblyInfoInputs.cache
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/obj/Debug/net8.0/variaveis-indexadas.AssemblyInfo.cs
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/obj/Debug/net8.0/variaveis-indexadas.csproj.CoreCompileInputs.cache
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/obj/Debug/net8.0/variaveis-indexadas.sourcelink.json
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/bin/Debug/net8.0/variaveis-indexadas
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/bin/Debug/net8.0/variaveis-indexadas.deps.json
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/bin/Debug/net8.0/variaveis-indexadas.runtimeconfig.json
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/bin/Debug/net8.0/variaveis-indexadas.dll
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/bin/Debug/net8.0/variaveis-indexadas.pdb
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/obj/Debug/net8.0/variaveis-indexadas.dll
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/obj/Debug/net8.0/refint/variaveis-indexadas.dll
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/obj/Debug/net8.0/variaveis-indexadas.pdb
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/obj/Debug/net8.0/variaveis-indexadas.genruntimeconfig.cache
+/home/ricardo/Workspace/fundamentos/csharp/variaveis-indexadas/obj/Debug/net8.0/ref/variaveis-indexadas.dll
