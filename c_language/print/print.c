@@ -4,6 +4,6 @@
 
 void main()
 {
-    printf("PI: %.4f\n", PI);
-    printf("MAX: %d\n", MAX);
+    printf("PI: %f\n",PI);
+    printf("MAX: %i\n",MAX);
 }
